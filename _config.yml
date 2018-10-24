@@ -12,8 +12,8 @@ actors:
     name: kinako
     url: https://twitter.com/kinakobooster
 author: kinakobooster
-description: 当事者によるアセクシャルトーク！あーだこーだラジオのウェブサイト
-description_long: 当事者によるアセクシャルトーク！あーだこーだラジオのウェブサイト
+description: ア当事者によるアセクシャルトーク！あーだこーだラジオのウェブサイト
+description_long: アセクシャル当事者（＋ゲスト）によるラジオです
 email: torii.megumi@gmail.com
 exclude:
   - docker
