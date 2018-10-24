@@ -1,16 +1,20 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
-  bob:
+  maayada:
+    image_url: /images/actors/maayada.jpg
+    name: maayada
+    url: https://twitter.com/maayada
+  kanahebi:
     image_url: /images/actors/bob.png
-    name: bob
+    name: kanahebi
     url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+  kinako:
+    image_url: /images/actors/kinako.jpg
+    name: kinako
+    url: https://twitter.com/kinakobooster
+author: kinakobooster
+description: 当事者によるアセクシャルトーク！あーだこーだラジオのウェブサイト
+description_long: 当事者によるアセクシャルトーク！あーだこーだラジオのウェブサイト
+email: torii.megumi@gmail.com
 exclude:
   - docker
   - docker-compose.yml
@@ -19,15 +23,15 @@ exclude:
   - LICENSE.txt
   - README.md
   - vendor
-google_analytics:
-hashtag: examplehashtag
+google_analytics: UA-41376889-9
+hashtag: aadakoda
 itunes_podcast_url:
-keywords: comma,separated,keywords
+keywords: アセクシャル, podcast
 language: ja
 markdown: kramdown
 permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+title: aadakoda
+url: http://aadakoda.tk
