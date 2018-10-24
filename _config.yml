@@ -4,9 +4,9 @@ actors:
     name: maayada
     url: https://twitter.com/maayada
   kanahebi:
-    image_url: /images/actors/bob.png
+    image_url: /images/actors/kanahebi.png
     name: kanahebi
-    url: http://sns.example.com/bob
+    url: 
   kinako:
     image_url: /images/actors/kinako.jpg
     name: kinako
